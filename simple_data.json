@@ -1,0 +1,28 @@
+{
+    "_id":"<id object can generate>",
+    "headline":"<StringField>",
+    "agency":"<StringField>",
+    "date_crime":"<StringField>",
+    "content":"<StringField>",
+    "Person":[
+        {
+         "fname":"<StringField>",
+         "lanme":"<StringField>",
+         "status":"<StringField>"
+        }
+    ],
+    "location":[
+        {
+            "place":"<StringField>"
+
+        }
+    ],
+    "action":
+    [
+        {
+         "adverb":"",
+         "verb":""
+        }
+
+    ]
+}
